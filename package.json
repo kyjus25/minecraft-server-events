@@ -1,6 +1,6 @@
 {
   "name": "mc-server-events",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Minecraft server events API",
   "main": "index.js",
   "scripts": {
