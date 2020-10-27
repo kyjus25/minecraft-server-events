@@ -1,0 +1,23 @@
+{
+  "name": "mc-server-events",
+  "version": "1.0.0",
+  "description": "Minecraft server events API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kyjus25/minecraft-server-events.git",
+    "web": "https://github.com/kyjus25/minecraft-server-events"
+  },
+  "keywords": [
+    "node",
+    "minecraft",
+    "server",
+    "events",
+    "event"
+  ],
+  "author": "Justin White <kyjus25@gmail.com> (https://justinwhite.info)",
+  "license": "MIT"
+}
