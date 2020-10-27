@@ -19,5 +19,8 @@
     "event"
   ],
   "author": "Justin White <kyjus25@gmail.com> (https://justinwhite.info)",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "chokidar": "~3.4.3"
+  }
 }
